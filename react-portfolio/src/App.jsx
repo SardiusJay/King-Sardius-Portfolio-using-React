@@ -5,8 +5,8 @@ import Nav from './components/nav/Nav.jsx'
 import Contact from './components/Contact/Contact.jsx'
 import Footer from './components/footer/Footer.jsx'
 import Service from './components/Service/service.jsx'
-import Experience from './components/Experience/experience.jsx'
-{/**import Portfolio from './components/Portfolio/portfolio'
+{/**import Experience from './components/Experience/experience.jsx'
+import Portfolio from './components/Portfolio/portfolio'
 import Testimonals from './components/Testimonals/testimonals'**/}
 
 
@@ -19,8 +19,8 @@ const App = () => {
 		<Contact />
 		<Footer />
 		<Service />
-		<Experience />
-		{/**<Portfolio />
+	{/**<Experience />
+		<Portfolio />
 		<Testimonal />**/}
 		</>
 
