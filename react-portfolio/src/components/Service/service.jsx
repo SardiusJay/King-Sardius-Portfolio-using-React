@@ -16,35 +16,35 @@ const Service = () => {
                 <ul className="Service__list">
                     <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                 </ul>
             </article>
-        {/*END OFUI/UX */}
+        {/*END OF UI/UX */}
 
         <article className="service">
                 <div className="service__head">
@@ -54,31 +54,31 @@ const Service = () => {
                 <ul className="Service__list">
                     <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                 </ul>
             </article>
@@ -92,31 +92,31 @@ const Service = () => {
                 <ul className="Service__list">
                     <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                      <li>
                         <BsCheck className='service__list-icon' />
-                        <p> Lorem, iposum dolor sit orment consectetur elit
+                        <p> Lorem, iposum dolor sit orment consectetur elit</p>
                     </li>
                 </ul>
             </article>
