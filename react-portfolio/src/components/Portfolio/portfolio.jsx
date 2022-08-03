@@ -9,7 +9,7 @@ const Portfolio = () => {
 
 
        <div className="contaner portfolio__container">
-       <article className='portfolio__item'
+       <article className='portfolio__item'></article>
            
        </div> 
         </section>
