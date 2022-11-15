@@ -38,10 +38,8 @@ const About = () => {
 			</article>
 			</div>
 
-			<p> Lorem 
-
-
-
+			<p> 'm passionate about building good User Interface(UI) for Clients, i work with open source Project and Am passionate about building other tech youmg folks
+			lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui lorem ipsum dolr 
 			</p>
 				
 				<a href="#contact" className='btn btn-primarys'> Let's Talk </a>
