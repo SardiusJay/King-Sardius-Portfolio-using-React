@@ -4,8 +4,4 @@ import App from './App';
 import './index.css';
 
 ReactDOM.render(<App/>, document.querySelector("#root"))
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+
