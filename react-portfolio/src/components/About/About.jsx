@@ -38,7 +38,7 @@ const About = () => {
 			</article>
 			</div>
 
-			<p> 'm passionate about building good User Interface(UI) for Clients, i work with open source Project and Am passionate about building other tech youmg folks
+			<p> I'm passionate about building good User Interface(UI) for Clients, i work with open source Project and Am passionate about building other tech youmg folks
 			lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui lorem ipsum dolr 
 			</p>
 				
